@@ -71,6 +71,10 @@ header {
     margin: 0 0.5rem;
 }
 
+.main-content a{
+    text-decoration: underline;
+}
+
 footer {
     font-size: small;
     background: #fff;
